@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# 欢迎来到[CAT]服务器官方网站
 
-You can use the [editor on GitHub](https://github.com/Dawn-Dream/CAT-server/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 服务器状态
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+服务器服主：晓夢
 
-### Markdown
+服务器管理：空尘，长空
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+服务器预计完成时间：2021年初
+
+## 服务器企划
+
+服务器一期计划
 
 ```markdown
-Syntax highlighted code block
+服务器区名称 ： Calm and Tranquil
+类型：SLG
+服主：空尘，晓夢
+技术：空尘，晓夢，长空
+策划：QQ群摸鱼的兄弟们
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+服务器二期计划
 
-### Jekyll Themes
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dawn-Dream/CAT-server/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[服务器计划公告二期]
+服务器名称 ： Sword Art Online
+类型：RPG
+背景故事：DawnDream
+技术：未定
 
-### Support or Contact
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+更多详情请看服务器[wiki]
+
+## 服务器策划QQ群/闲聊群
+QQ：## 471477657 ##

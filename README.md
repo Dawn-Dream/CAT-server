@@ -1,4 +1,4 @@
-# [CAT]服务器 COME IN 2022SUMMER!
+# [CAT]服务器 COMING SOON IN 2022 SUMMER  
 
 ## 静水大陆服务器 ##
 
